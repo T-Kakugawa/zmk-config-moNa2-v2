@@ -48,6 +48,11 @@
             bindings = <&single_quotation>;
             key-positions = <19 20>;
         };
+
+        esc {
+            bindings = <&kp ESCAPE>;
+            key-positions = <0 1>;
+        };
     };
 
     macros {
